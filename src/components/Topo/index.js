@@ -1,4 +1,5 @@
 export default function Topo() {
+    return (
     <header>
         <div>
             <picture>
@@ -12,4 +13,5 @@ export default function Topo() {
             </nav>
         </div>
     </header>
+    )
 }
