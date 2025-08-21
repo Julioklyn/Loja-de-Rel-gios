@@ -13,3 +13,7 @@ img {
   object-fit: cover;
 }
 
+section {
+  scroll-margin-top: 120px;
+  
+}
